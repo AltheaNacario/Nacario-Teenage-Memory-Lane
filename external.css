@@ -1,0 +1,53 @@
+body {
+	  background-image: url("https://i.ibb.co/gd2WsJ6/Retro-burst-background-blur.jpg");
+	  background-position: center;
+     }
+     
+p {
+    text-align: center;
+    font-family: Brush Script MT;
+	font-size: 50px;
+	color: #0A1E3A;
+   }
+   
+div.gallery {
+  margin: 32px;
+  border: 15px groove #FFAB58;
+  float: left;
+  width: 180px;
+  position: static;
+}
+
+div.gallery:hover {
+  color:#1A4913;
+  font-family: Garamond;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+  background-color: #FFDCBA;
+  font-family: Garamond
+}
+
+div.gallery2 {
+  margin-top: 32px;
+  margin-left: 250px;
+  border: 15px groove #FFAB58;
+  float: left;
+  width: 180px;
+}
+
+div.gallery2:hover {
+  color:#1A4913;
+  font-family: Garamond;
+}
+
+div.gallery2 img {
+  width: 100%;
+  height: auto;
